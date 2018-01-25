@@ -18,7 +18,7 @@ The program asks the user if he or she wants to translate another line.
 
 Specifications
 Parse the string into separate words before translating. You can assume that the 
-words will be separated by a single space and there won’t be any punctuation. 
+words will be separated by a single space and there wonâ€™t be any punctuation. 
 To do that, you can use the split function of the String object like this: 
 
 String[] words = line.split(" ");
