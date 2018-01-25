@@ -27,6 +27,6 @@ int number = random.nextInt(upperLimit - 1) + 1;
 
 Write the while loop that allows the user to guess again if their guess was wrong. 
 This loop should inform the user whether their guess was too high or too low. 
-Then, it should prompt the user for a new guess. The loop should exit when the user’s guess 
+Then, it should prompt the user for a new guess. The loop should exit when the userâ€™s guess 
 is equal to the random number the computer generated.
 After the while loop, write code that tells the user they guessed correctly.
