@@ -10,11 +10,7 @@ Would you like to play Bart or Lisa? (b/l): b
 
 Rock, paper, or scissors? (r/p/s): r
 
-Stani: rock
-
-Bart: rock
-
-Draw!
+Stani: rock Bart: rock Draw!
 
 Play again? (y/n): y
 
