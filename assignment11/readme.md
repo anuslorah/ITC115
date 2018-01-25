@@ -37,8 +37,8 @@ If the user enters Y or y, the program asks for another category.
 Otherwise, the program ends.
 
 Specifications
-Use the Movie class that’s provided to store the title and category for each movie.
-Use the MovieDB class that’s provided to you to get the ArrayList objects. 
-To do that, you’ll need to finish the code for the getMovies methods
+Use the Movie class thatâ€™s provided to store the title and category for each movie.
+Use the MovieDB class thatâ€™s provided to you to get the ArrayList objects. 
+To do that, youâ€™ll need to finish the code for the getMovies methods
 
 Link to started code: https://drive.google.com/drive/folders/0B9IxzuK2ctFXLWVTQm5NaUhUNTg?usp=sharing
