@@ -69,5 +69,5 @@ int value = (int) (Math.random() * sides);
 
 Create a class named DiceRollerApp that uses the PairOfDice class to roll the 
 dice. This class should display special messages for craps (sum of both dice is 7), 
-snake eyes (double 1’s), and box cars (double 6’s). 
+snake eyes (double 1â€™s), and box cars (double 6â€™s). 
 For this application, assume that two six-sided dice are used.
