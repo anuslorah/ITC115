@@ -48,4 +48,4 @@ D    60-67
 F    <60
 
 Assume that the user will enter valid integers for the grades.
-The application should continue only if the user enters “y” or “Y” to continue.
+The application should continue only if the user enters â€œyâ€ or â€œYâ€ to continue.
