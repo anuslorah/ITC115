@@ -1,6 +1,7 @@
 ITC115, Beginning Java, class homework assignments
 
 Course Goals
+
 After successfully completing this course students will be able to do the following:
 
 Advance their knowledge of  encapsulation, inheritance, and polymorphism 
