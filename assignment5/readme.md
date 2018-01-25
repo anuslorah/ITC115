@@ -27,4 +27,4 @@ The application prompts the user to continue.
 
 Specifications
 Assume that the user will enter a valid integer value for the number of cents.
-The application should continue only if the user enters “y” or “Y” to continue
+The application should continue only if the user enters â€œyâ€ or â€œYâ€ to continue
